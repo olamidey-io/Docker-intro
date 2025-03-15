@@ -1,3 +1,5 @@
+## Mini Project - Introduction to Docker
+
 The **docker pull** command downloads a docker image from the docker hub to my local machine as shown below:
 ![alt text](images/Capture1.PNG)
 
